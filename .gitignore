@@ -1,0 +1,30 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+*.venv/
+.venv/
+env/
+ENV/
+venv/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# VS Code / IDE settings
+.vscode/
+.idea/
+
+# Notebook metadata
+*.nbconvert.ipynb
