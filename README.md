@@ -83,7 +83,6 @@
 
 
 
-
 # Flight Price Prediction - Exploratory Data Analysis (EDA)
 
 This project performs **Exploratory Data Analysis (EDA)** on a flight price dataset to understand key trends, relationships, and anomalies. The insights derived will later assist in building a machine learning model to predict flight prices.
